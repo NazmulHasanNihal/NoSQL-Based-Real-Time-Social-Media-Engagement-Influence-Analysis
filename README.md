@@ -448,30 +448,30 @@ In this section, we will:
 ### 📊 Posting Activity by Hour of Day
 ![Post Volume by Hour of Day](visuals/Post_Volume_by_Hour_of_Day.png)
 ### 📅 Posting Activity by Day of Week
-![Posts by Day of the Week](visuals/Posts by Day of the Week 2.png)
+![Posts by Day of the Week](visuals/PostsbyDayoftheWeek2.png)
 ### 🏷️ Top 10 Hashtags by Frequency
-![Top 10 Hashtags](visuals/Top 10 Hashtags 2.png)
+![Top 10 Hashtags](visuals/Top10Hashtags2.png)
 ### 📍 Top Locations by Post Volume
-![Top 10 Post Locations](visuals/Top 10 Post Locations 2.png)
+![Top 10 Post Locations](visuals/Top10PostLocations2.png)
 ### 💥 Distribution of Likes and Comments
-![Distribution of Likes per Post](visuals/Distribution of Likes per Post.png)
-![Distribution of Comments per Post](visuals/Distribution of Comments per Post.png)
+![Distribution of Likes per Post](visuals/DistributionofLikesperPost.png)
+![Distribution of Comments per Post](visuals/DistributionofCommentsperPost.png)
 ### 🌟 Influencer Impact – Followers vs Engagement
-![Influence Scatter: Followers vs Total Engagement](visuals/Influence Scatter Followers vs Total Engagement.png)
+![Influence Scatter: Followers vs Total Engagement](visuals/InfluenceScatterFollowersvsTotalEngagement.png)
 ### 🧠 Correlation Heatmap of Key Metrics
-![Correlation Between Engagement Metrics](visuals/Correlation Between Engagement Metrics.png)
+![Correlation Between Engagement Metrics](visuals/CorrelationBetweenEngagementMetrics.png)
 ### 📐 Likes Distribution by Day of Week
-![Likes Distribution by Day of Week](visuals/Likes Distribution by Day of Week.png)
+![Likes Distribution by Day of Week](visuals/LikesDistributionbyDayofWeek.png)
 ### 🌀 Hashtags vs Engagement Score
-![Hashtag Count vs Engagement Score](visuals/Hashtag Count vs Engagement Score.png)
+![Hashtag Count vs Engagement Score](visuals/HashtagCountvsEngagementScore.png)
 ### 🧭 Post Volume by Hour (Circular Time Distribution)
-![Circular Post Volume by Hour](visuals/Circular Post Volume by Hour.png)
+![Circular Post Volume by Hour](visuals/CircularPostVolumebyHour.png)
 ### 📚 Content Length Style
-![Distribution of Word Counts per Post](visuals/Distribution of Word Counts per Post.png)
+![Distribution of Word Counts per Post](visuals/DistributionofWordCountsperPost.png)
 ### 🎨 Likes vs Comments per Post (Bubble Plot)
-![Bubble Plot Likes vs Comments (Bubble = Engagement)](visuals/Bubble Plot Likes vs Comments Bubble Engagement.png)
+![Bubble Plot Likes vs Comments (Bubble = Engagement)](visuals/BubblePlotLikesvsCommentsBubbleEngagement.png)
 ### 🧬 Multivariate Visual Insight of Posts
-![Pairwise Metric Relationships](visuals/Pairwise Metric Relationships.png)
+![Pairwise Metric Relationships](visuals/PairwiseMetricRelationships.png)
 
 ## 🧠 Sentiment Analysis on Comments
 🎯 **Objective:**
