@@ -446,7 +446,7 @@ In this section, we will:
 - `Influencer impact`
 
 ### 📊 Posting Activity by Hour of Day
-![Post Volume by Hour of Day](./visuals/visuals/Post Volume by Hour of Day.png)
+![Post Volume by Hour of Day](./visuals/Post Volume by Hour of Day.png)
 ### 📅 Posting Activity by Day of Week
 ![Posts by Day of the Week](visuals/Posts by Day of the Week 2.png)
 ### 🏷️ Top 10 Hashtags by Frequency
