@@ -10,7 +10,7 @@ This project simulates a real-world social media platform using a NoSQL document
 
 - `Emotional tone (e.g., comment sentiment, engagement impact)`
 
-**It’s designed to showcase ability to:**
+**showcasing the ability to:**
 
 - `Handle semi-structured, nested data`
 
