@@ -431,7 +431,7 @@ In this section, we will:
 
 🎯 **Objective:**
 
-- This section focuses on creating `insightful`, `polished` visualizations that highlight key trends and patterns in the social media dataset.
+- This section focuses on creating `insightful`, `polished` visualizations that highlight `key trends` and `patterns` in the `social media` dataset.
 
 **We’ll visualize:**
 
@@ -446,7 +446,7 @@ In this section, we will:
 - `Influencer impact`
 
 ### 📊 Posting Activity by Hour of Day
-![Post Volume by Hour of Day](./visuals/Post Volume by Hour of Day.png)
+![Post Volume by Hour of Day](visuals/Post_Volume_by_Hour_of_Day.png)
 ### 📅 Posting Activity by Day of Week
 ![Posts by Day of the Week](visuals/Posts by Day of the Week 2.png)
 ### 🏷️ Top 10 Hashtags by Frequency
